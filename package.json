@@ -1,0 +1,18 @@
+{
+  "name": "togetherdog_rest",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "debug": "^4.1.1",
+    "dotenv": "^8.2.0",
+    "restify": "^8.5.1"
+  }
+}
